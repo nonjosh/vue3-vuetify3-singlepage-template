@@ -10,10 +10,10 @@
 </template>
 
 <script>
-import LaunchSection from "./components/LaunchSection.vue";
-import HelloWorld from "./components/HelloWorld.vue";
-import TestSection1 from "./components/TestSection1.vue";
-import TestSection2 from "./components/TestSection2.vue";
+import LaunchSection from "@/components/LaunchSection.vue";
+import HelloWorld from "@/components/HelloWorld.vue";
+import TestSection1 from "@/components/TestSection1.vue";
+import TestSection2 from "@/components/TestSection2.vue";
 
 export default {
   name: "App",
