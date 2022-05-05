@@ -53,12 +53,6 @@ export default {
       { title: "Section 2", section_id: "section2" },
       { title: "Section 3", section_id: "section3" },
     ],
-    miniVariant: false,
-    right: true,
-    rightDrawer: false,
-    clipped: false,
-    drawer: false,
-    fixed: false,
   }),
   methods: {
     scroll(id) {
