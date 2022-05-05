@@ -1,12 +1,12 @@
 <template>
   <v-app>
-    <v-app-bar fixed>
+    <v-app-bar density="compact" color="transparent">
       <v-spacer></v-spacer>
       <v-btn
         class="d-none d-md-block"
         v-for="item in items"
         :key="item.section_id"
-        @click="scroll(item.section_id)"        
+        @click="scroll(item.section_id)"
         >{{ item.title }}</v-btn
       >
       <v-menu anchor="start">
@@ -22,12 +22,10 @@
         </v-list>
       </v-menu>
     </v-app-bar>
-    <v-main>
-      <LaunchSection id="launch" />
-      <TestSection1 id="section1" />
-      <TestSection2 id="section2" />
-      <TestSection3 id="section3" />
-    </v-main>
+    <LaunchSection id="launch" />
+    <TestSection1 id="section1" />
+    <TestSection2 id="section2" />
+    <TestSection3 id="section3" />
   </v-app>
 </template>
 
