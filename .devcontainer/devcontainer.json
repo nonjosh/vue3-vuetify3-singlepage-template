@@ -17,6 +17,7 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"Wscats.vue",
+		"Vue.volar",
 		"eamodio.gitlens",
 		"donjayamanne.githistory",
 		"oderwat.indent-rainbow",
