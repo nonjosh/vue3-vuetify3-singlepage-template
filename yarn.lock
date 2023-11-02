@@ -5869,10 +5869,10 @@ vuetify-loader@^2.0.0-alpha.0:
     querystring "^0.2.1"
     upath "^2.0.1"
 
-vuetify@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.0.0.tgz#372eed0663f0ffba53439cd99aa46031e560b0f4"
-  integrity sha512-0olLmKWb+oTaebGTM02+1fWaAgnGDuIt86K3jDv2LnALQ2atSzhDS1SSASJsJCZ2PgFBdDAeJVLcNWWavRYAlQ==
+vuetify@3.3.21:
+  version "3.3.21"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.3.21.tgz#b5798ed092e019214bbc9d89461e203e525e02d5"
+  integrity sha512-CVC6MDC45H+IY8Nq5QO/lBhbSd/dg+IV46GKd+LIndriLoQXG+tFv31NQY++tOQgrKeZr6w2SUBMBxSZyHErfg==
 
 watchpack@^2.3.1:
   version "2.3.1"
